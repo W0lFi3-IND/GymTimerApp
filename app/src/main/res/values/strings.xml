@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheTimer</string>
+    <string name="title">THE T I M E R</string>
+    <string name="BasicCoundown">Basic Countdown</string>
+    <string name="SplitCountdown">Split Countdown</string>
+    <string name="Gym" translatable="false">Gym Countdown</string>
+</resources>
